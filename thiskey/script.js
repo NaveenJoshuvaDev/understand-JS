@@ -23,6 +23,7 @@ const book = lufthansa.book;
 
 //Call , apply, and bind method to overcome this keyword problem.
 //this keyword doesn't work in function.
+//To manually set this keyword these methods are used.
 /***************** */
 //Call Method
 book.call(eurowings, 23, "Sarah Williams");
